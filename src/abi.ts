@@ -11,3 +11,4 @@ export const ERC20_ABI = [
   // Events
   "event Transfer(address indexed from, address indexed to, uint amount)",
 ];
+//0xB506c8dF6d578F3A2f3e9B47619f34ED7078beDf
