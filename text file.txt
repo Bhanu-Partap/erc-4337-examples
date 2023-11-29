@@ -1,0 +1,9 @@
+//   paymater ethereum sepolia
+//   "rpcUrl": "https://api.stackup.sh/v1/paymaster/",
+
+  // Mumbai ethereum sepolia
+  // "rpcUrl": "https://api.stackup.sh/v1/node/",
+
+
+,
+    "token": "0x3870419Ba2BBf0127060bCB37f69A1b1C090992B" 
