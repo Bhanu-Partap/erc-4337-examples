@@ -1,8 +1,8 @@
 //   paymater ethereum sepolia
-//   "rpcUrl": "https://api.stackup.sh/v1/paymaster/",
+//   "rpcUrl": "https://api.stackup.sh/v1/paymaster/c713cd6b5ac9196b897e0e69c5be6951f3f18b3ca763fd7cd346310b9ddfdd3e",
 
   // Mumbai ethereum sepolia
-  // "rpcUrl": "https://api.stackup.sh/v1/node/",
+  // "rpcUrl": "https://api.stackup.sh/v1/node/c713cd6b5ac9196b897e0e69c5be6951f3f18b3ca763fd7cd346310b9ddfdd3e",
 
 
 ,
